@@ -6,9 +6,8 @@ export default function Home() {
   return (
     
     <div>
-      <Image src="/preppro.png" alt="PrepPro Logo" width={160} height={46} />
-      <Image src={'/grid.svg'} className="absolute z-[-10] w-full" 
-      width={1200} height={300} />
+      <Image src="/preppro.png" alt="PrepPro Logo" width={100} height={20} />
+      <Image src={'/grid.svg'} className="absolute z-[-10] w-full"  width={1200} height={300} />
       <Header/>
      <section className=" z-50">
     <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
