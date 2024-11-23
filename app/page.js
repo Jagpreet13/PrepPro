@@ -7,7 +7,7 @@ export default function Home() {
     
     <div>
       <Image src="/preppro.png" alt="PrepPro Logo" width={100} height={20} />
-      <Image src={'/grid.svg'} className="absolute z-[-10] w-full"  width={1200} height={300} />
+      {/* <Image src={'/grid.svg'} className="absolute z-[-10] w-full"  width={1200} height={300} /> */}
       <Header/>
      <section className=" z-50">
     <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
@@ -80,8 +80,8 @@ with our AI-powered interview prep</p>
         <h2 className="mt-4 text-xl font-bold text-black">Write promot for your form</h2>
 
         <p className="mt-1 text-sm text-gray-600">
-        Start by defining a clear purpose for your form. 
-        Write a detailed prompt or set of questions that align with the objective, whether it's collecting feedback, conducting surveys, or facilitating interviews.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
+          distinctio alias voluptatum blanditiis laudantium.
         </p>
       </a>
 
@@ -94,8 +94,8 @@ with our AI-powered interview prep</p>
         <h2 className="mt-4 text-xl font-bold text-black">Edit Your form </h2>
 
         <p className="mt-1 text-sm text-gray-600">
-        Tailor your form to match your audience. 
-        Use an intuitive design, adjust the fields, and refine the format to ensure it's user-friendly and engaging.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
+          distinctio alias voluptatum blanditiis laudantium.
         </p>
       </a>
 
@@ -108,8 +108,8 @@ with our AI-powered interview prep</p>
         <h2 className="mt-4 text-xl font-bold text-black">Share & Start Accepting Responses</h2>
 
         <p className="mt-1 text-sm text-gray-600">
-        Distribute your form through multiple channels like email, social media, or a direct link. 
-        Monitor and analyze the responses in real time to gain insights and take action effectively.
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex ut quo possimus adipisci
+          distinctio alias voluptatum blanditiis laudantium.
         </p>
       </a>
 
